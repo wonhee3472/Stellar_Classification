@@ -1,5 +1,5 @@
 ## Classification of Stars, Galaxies and Quasars based on spectral characterisitcs. 
-<img src="static/img/stars2.jpg" alt="drawing" style="height: 400px; width:100%;"/>
+<img src="C:\Users\abesa\github\Stellar_Classification\Dashboard\images\backgrounds\read_me.jpg" alt="drawing" style="height: 400px; width:100%;"/>
 
 ### Abstract:
 
@@ -85,6 +85,9 @@ Abdurro’uf et al., The Seventeenth data release of the Sloan Digital Sky Surve
 ### Outline of Workflow:
 
 ![](Resources/workflow.png)
+
+### Database
+[Link to the fully integrated database using SQLite.](https://github.com/wonhee3472/Stellar_Classification/blob/master/Machine%20Learnding%20Models%20-%20DB%20Connection/DB_ML_model%20-%20Logistic%20Regression.ipynb)
 
 ### Description of data exploration and analysis phase:
 
