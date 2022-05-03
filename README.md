@@ -1,5 +1,5 @@
 ## Classification of Stars, Galaxies and Quasars based on spectral characterisitcs. 
-<img src="C:\Users\abesa\github\Stellar_Classification\Dashboard\images\backgrounds\read_me.jpg" alt="drawing" style="height: 400px; width:100%;"/>
+<img src="Dashboard\images\backgrounds\read_me.jpg" alt="drawing" style="height: 400px; width:100%;"/>
 
 ### Abstract:
 
