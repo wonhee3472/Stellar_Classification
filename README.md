@@ -66,7 +66,7 @@ The columns are as follows:
 
 ### Acknowledgements:
 
-The data released by the SDSS is under public domain. It's taken from the current data release RD17.
+The data released by the SDSS is under public domain. It's taken from the current data release DR 17.
 
 More information about the license: http://www.sdss.org/science/image-gallery/
 
