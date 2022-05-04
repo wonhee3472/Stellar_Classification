@@ -195,7 +195,7 @@ The following classification models were chosen as the dataset is the dataset ha
  ### Dashboard:
  
  We will be building a webpage using HTML, CSS, Bootstrap, and JavaScript and deploy it on GitHub pages.
- [Dashboard Deployment Draft #1](https://wonhee3472.github.io/Da_Vinci_Code/)
+ [Dashboard Deployment](https://wonhee3472.github.io/Stellar_Classification/)
 
  ### The Team:
 
