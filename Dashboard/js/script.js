@@ -328,42 +328,42 @@ function initialize() {
 google.maps.event.addDomListener(window, 'load', initialize);
 
 const stars = [
-    'url("dashboard/images/Star/Star_1.jfif")',
-    'url("dashboard/images/Star/Star_2.jfif")',
-    'url("dashboard/images/Star/Star_3.jfif")',
-    'url("dashboard/images/Star/Star_4.jfif")',
-    'url("dashboard/images/Star/Star_5.jfif")',
-    'url("dashboard/images/Star/Star_6.jfif")',
-    'url("dashboard/images/Star/Star_7.jfif")',
-    'url("dashboard/images/Star/Star_8.jfif")',
-    'url("dashboard/images/Star/Star_9.jfif")',
-    'url("dashboard/images/Star/Star_10.jfif")'
+    'url("Dashboard/images/Star/Star_1.jfif")',
+    'url("Dashboard/images/Star/Star_2.jfif")',
+    'url("Dashboard/images/Star/Star_3.jfif")',
+    'url("Dashboard/images/Star/Star_4.jfif")',
+    'url("Dashboard/images/Star/Star_5.jfif")',
+    'url("Dashboard/images/Star/Star_6.jfif")',
+    'url("Dashboard/images/Star/Star_7.jfif")',
+    'url("Dashboard/images/Star/Star_8.jfif")',
+    'url("Dashboard/images/Star/Star_9.jfif")',
+    'url("Dashboard/images/Star/Star_10.jfif")'
 ]
 
 const galaxies = [
-    'url("dashboard/images/Galaxy/Galaxy_1.jfif")',
-    'url("dashboard/images/Galaxy/Galaxy_2.jfif")',
-    'url("dashboard/images/Galaxy/Galaxy_3.jfif")',
-    'url("dashboard/images/Galaxy/Galaxy_4.jfif")',
-    'url("dashboard/images/Galaxy/Galaxy_5.jfif")',
-    'url("dashboard/images/Galaxy/Galaxy_6.jfif")',
-    'url("dashboard/images/Galaxy/Galaxy_7.jfif")',
-    'url("dashboard/images/Galaxy/Galaxy_8.jfif")',
-    'url("dashboard/images/Galaxy/Galaxy_9.jfif")',
-    'url("dashboard/images/Galaxy/Galaxy_10.jfif")'
+    'url("Dashboard/images/Galaxy/Galaxy_1.jfif")',
+    'url("Dashboard/images/Galaxy/Galaxy_2.jfif")',
+    'url("Dashboard/images/Galaxy/Galaxy_3.jfif")',
+    'url("Dashboard/images/Galaxy/Galaxy_4.jfif")',
+    'url("Dashboard/images/Galaxy/Galaxy_5.jfif")',
+    'url("Dashboard/images/Galaxy/Galaxy_6.jfif")',
+    'url("Dashboard/images/Galaxy/Galaxy_7.jfif")',
+    'url("Dashboard/images/Galaxy/Galaxy_8.jfif")',
+    'url("Dashboard/images/Galaxy/Galaxy_9.jfif")',
+    'url("Dashboard/images/Galaxy/Galaxy_10.jfif")'
 ]
 
 const quasars = [
-    'url("dashboard/images/Quasar/QSO_1.jfif")',
-    'url("dashboard/images/Quasar/QSO_2.jfif")',
-    'url("dashboard/images/Quasar/QSO_3.jfif")',
-    'url("dashboard/images/Quasar/QSO_4.jfif")',
-    'url("dashboard/images/Quasar/QSO_5.jfif")',
-    'url("dashboard/images/Quasar/QSO_6.jfif")',
-    'url("dashboard/images/Quasar/QSO_7.jfif")',
-    'url("dashboard/images/Quasar/QSO_8.jfif")',
-    'url("dashboard/images/Quasar/QSO_9.jfif")',
-    'url("dashboard/images/Quasar/QSO_10.jfif")'
+    'url("Dashboard/images/Quasar/QSO_1.jfif")',
+    'url("Dashboard/images/Quasar/QSO_2.jfif")',
+    'url("Dashboard/images/Quasar/QSO_3.jfif")',
+    'url("Dashboard/images/Quasar/QSO_4.jfif")',
+    'url("Dashboard/images/Quasar/QSO_5.jfif")',
+    'url("Dashboard/images/Quasar/QSO_6.jfif")',
+    'url("Dashboard/images/Quasar/QSO_7.jfif")',
+    'url("Dashboard/images/Quasar/QSO_8.jfif")',
+    'url("Dashboard/images/Quasar/QSO_9.jfif")',
+    'url("Dashboard/images/Quasar/QSO_10.jfif")'
 ]
 
 const star = document.querySelector("#stars");
