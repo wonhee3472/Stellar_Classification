@@ -14,7 +14,7 @@ These next-generation telescopes are predicted to significantly increase the siz
 "While efforts such as Galaxy Zoo (Lintott et al. 2008, 2011) bring in many more people to help sift through data, these efforts alone are not expected to be able to keep up with the source counts anticipated for the next generation of telescopes." For such large datasets, machine learning algorithms are becoming an increasingly valuable tool for analysis and data exploration. "The development of such algorithms in computer science fields has accelerated rapidly in the last decade, focusing on processing large datasets in high performance computing workflows and cloud computing systems (Jones 2014; Wu et al. 2016)."
 
 ### Google Slides: 
-https://docs.google.com/presentation/d/1H1HE5rhpyJQa0CFW6nn1D7o1Ps6UMqfJQ-FiysKqm8g/edit?usp=sharing
+ [Stellar Classification Slide Deck] https://docs.google.com/presentation/d/1H1HE5rhpyJQa0CFW6nn1D7o1Ps6UMqfJQ-FiysKqm8g/edit?usp=sharing
 
 ### Description of the source of data:
 
@@ -179,19 +179,6 @@ The following classification models were chosen as the dataset is the dataset ha
  - Reduces overfitting and improves accuracy
  - It works well with datasets that have outliers
  
-
-### Description of the communication protocols:
-
-  - Slack: We are using this platform to constantly communicate ideas, sharing updates and checking on each other.
-  
-  - Zoom: We use this platform to brainstorm and code together.
-  
-  - Google Sheets: We use this platform as a project management tool to assign taks and check off tasks for each role, as well as track progress.
-  
-  - Google Docs : We are using this platform to create mockups for our Read Me and share technical informationan about our dataset. 
-  
-  - Git Hub: We will be storing/reviewing our work (e.g., code, dataset, database) on this Github Repository.
-  
  ### Dashboard:
  
  We will be building a webpage using HTML, CSS, Bootstrap, and JavaScript and deploy it on GitHub pages.
